@@ -4,6 +4,7 @@ In our first Official Event as an entire Council with QuestIT, Aditya Kotkar too
 
 ## The Event in Brief
 
-The focus was on building skills in different aspects of technology alongside working on soft skills and gaining experience at work with the help of internships, freelance opportunities, etc. Aditya discussed the different technologies preffered by companies which recruit students from VESIT and the approach towards Coding Rounds, Aptitude Tests and Interviews. At the end, he also touched upon other opportunities like applying to companies off-campus, examinations for higher studies viz. GATE and GRE. 
+The focus was on building skills in different aspects of technology alongside working on soft skills and gaining experience at work with the help of internships, freelance opportunities, etc. Aditya discussed the different technologies preferred by companies which recruit students from VESIT and the approach towards Coding Rounds, Aptitude Tests and Interviews. At the end, he also touched upon other opportunities like applying to companies off-campus, examinations for higher studies viz. GATE and GRE, etc.
 
 Use this repository as your resource bank when trying to get placed in that Dream Company!
+Good luck :) 
